@@ -4,7 +4,7 @@ This repository contains scripts and documentation for setting up OpenCL support
 
 ## 🔗 Repository
 
-**GitHub:** https://github.com/thecrackofdan/quai-amd-setup
+**GitHub:** https://github.com/thecrackofdan/AMD-Set-up
 
 ## 📋 Contents
 
