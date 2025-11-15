@@ -4,7 +4,7 @@ This repository contains scripts and documentation for setting up OpenCL support
 
 ## 🔗 Repository
 
-**GitHub:** https://github.com/thecrackofda/amd-rx590-opencl-setup
+**GitHub:** https://github.com/thecrackofdan/amd-rx590-opencl-setup
 
 ## 📋 Contents
 
