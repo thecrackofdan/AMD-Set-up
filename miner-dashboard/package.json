@@ -45,10 +45,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/thecrackofdan/AMD-Set-up.git"
+    "url": "https://github.com/thecrackofdan/quaiminer-dashboard.git"
   },
   "bugs": {
-    "url": "https://github.com/thecrackofdan/AMD-Set-up/issues"
+    "url": "https://github.com/thecrackofdan/quaiminer-dashboard/issues"
   },
-  "homepage": "https://github.com/thecrackofdan/AMD-Set-up#readme"
+  "homepage": "https://github.com/thecrackofdan/quaiminer-dashboard#readme"
 }

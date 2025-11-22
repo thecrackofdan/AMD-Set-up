@@ -63,16 +63,8 @@ Thank you for your interest in contributing to QuaiMiner Core! This document pro
    cd AMD-Set-up
    ```
 
-2. Install dependencies:
-   ```bash
-   cd miner-dashboard
-   npm install
-   ```
-
-3. Run the dashboard:
-   ```bash
-   npm start
-   ```
+2. For dashboard development, see the [QuaiMiner Dashboard repository](https://github.com/thecrackofdan/quaiminer-dashboard)
+3. For setup scripts and research documentation, work directly in this repository
 
 ## Coding Standards
 
@@ -102,23 +94,22 @@ Update: README with new installation steps
 
 ```
 .
-├── miner-dashboard/     # Main dashboard application
-│   ├── server.js        # Express server
-│   ├── public/          # Frontend files
-│   └── docs/            # Documentation
+├── dashboard/           # Simple HTML/CSS/JS dashboard
 ├── index.html           # Landing page
 ├── *.sh                 # Setup and utility scripts
 └── *.md                 # Documentation files
 ```
+
+**Note:** The full-featured Node.js dashboard is in a [separate repository](https://github.com/thecrackofdan/quaiminer-dashboard)
 
 ## Testing
 
 Before submitting a PR:
 
 1. Test your changes locally
-2. Ensure the dashboard starts without errors
-3. Test on different browsers if UI changes
-4. Verify API endpoints work correctly
+2. For setup scripts: Test on a clean Ubuntu 20.04 system if possible
+3. For documentation: Verify all links work and formatting is correct
+4. For dashboard changes: Contribute to the [QuaiMiner Dashboard repository](https://github.com/thecrackofdan/quaiminer-dashboard) instead
 
 ## Documentation
 
