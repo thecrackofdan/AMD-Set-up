@@ -2,7 +2,7 @@
 
 ## Quick Setup
 
-1. Create a `.env` file in the `miner-dashboard` directory
+1. Create a `.env` file in the root directory of this repository
 2. Copy the configuration below and update with your values
 
 ## Configuration Template

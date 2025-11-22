@@ -56,9 +56,9 @@ git rm -r miner-dashboard/
 
 ### Step 5: Update Main Repository Files
 
-- Update `README.md` to remove references to miner-dashboard
-- Update `index.html` to link to the separate dashboard repo
-- Update any other files that reference miner-dashboard
+- Update `README.md` to remove references to miner-dashboard ✅ (Already done)
+- Update `index.html` to link to the separate dashboard repo ✅ (Already done)
+- Update any other files that reference miner-dashboard ✅ (Already done)
 
 ### Step 6: Commit and Push Both Repositories
 
@@ -102,3 +102,9 @@ git push -u origin main
 ## Automated Script
 
 Run `./split_repos.sh` to automate this process.
+
+## Important Notes
+
+1. **GitHub URLs**: Update repository URLs in files if your username differs from `thecrackofdan`
+2. **History**: This creates a new repo without git history. For history preservation, use `git filter-branch` or `git filter-repo`
+3. **Dependencies**: The dashboard repo is completely independent after the split

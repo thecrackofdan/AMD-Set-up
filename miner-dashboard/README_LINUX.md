@@ -16,9 +16,10 @@
    # Or download from https://nodejs.org/
    ```
 
-2. **Navigate to the dashboard directory**:
+2. **Clone this repository**:
    ```bash
-   cd miner-dashboard
+   git clone https://github.com/thecrackofdan/quaiminer-dashboard.git
+   cd quaiminer-dashboard
    ```
 
 3. **Make the startup script executable**:
