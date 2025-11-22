@@ -33,8 +33,8 @@ This project is designed to work on multiple operating systems. When contributin
 
 ```bash
 # Clone repository
-git clone <repository-url>
-cd miner-dashboard
+git clone https://github.com/thecrackofdan/quaiminer-dashboard.git
+cd quaiminer-dashboard
 
 # Install dependencies
 npm install

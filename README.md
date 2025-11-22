@@ -9,7 +9,7 @@ QuaiMiner Core is a comprehensive suite of tools, scripts, and resources for suc
 ## 🚀 Quick Start
 
 1. **View the Website:** Open `index.html` in your browser for the full QuaiMiner Core experience
-2. **Launch Dashboard:** Navigate to `miner-dashboard/` and run `npm start` for real-time mining monitoring
+2. **Launch Dashboard:** See [QuaiMiner Dashboard](https://github.com/thecrackofdan/quaiminer-dashboard) for the real-time mining monitoring dashboard
 3. **Setup AMD GPU:** Run `./quick_amd_setup.sh` to automatically configure your AMD GPU for mining
 4. **Compare Miners:** Run `./mining_software_comparison.sh` to get personalized miner recommendations
 
@@ -17,7 +17,8 @@ QuaiMiner Core is a comprehensive suite of tools, scripts, and resources for suc
 
 ### 🌐 Website & Dashboard
 - **`index.html`** - Landing page and main website for QuaiMiner Core
-- **`miner-dashboard/`** - Real-time mining dashboard with Node.js backend
+- **`dashboard/`** - Simple HTML/CSS/JS dashboard (basic version)
+- **📊 [QuaiMiner Dashboard](https://github.com/thecrackofdan/quaiminer-dashboard)** - Full-featured real-time mining dashboard (separate repository)
 
 ### 🔬 Core Research Documents
 - **`quai_mining_software_research.md`** - Comprehensive research and comparison of all Quai mining software options

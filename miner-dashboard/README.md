@@ -1,10 +1,8 @@
-# QuaiMiner Core - Mining Dashboard
+# QuaiMiner Dashboard
 
-**Part of the QuaiMiner Core toolkit**
+**Production-ready real-time dashboard for monitoring Quai Network mining operations**
 
-Production-ready real-time dashboard for monitoring Quai Network mining operations. This dashboard is included in the QuaiMiner Core suite of mining tools.
-
-🌐 **QuaiMiner Core:** [View Main Repository](../README.md) | 📊 **Dashboard:** [Launch Dashboard](public/index.html)
+🌐 **Related Project:** [QuaiMiner Core](https://github.com/thecrackofdan/AMD-Set-up) - Complete mining toolkit with setup scripts and research | 📊 **Dashboard:** [Launch Dashboard](public/index.html)
 
 ## Features
 
@@ -33,9 +31,10 @@ Production-ready real-time dashboard for monitoring Quai Network mining operatio
    sudo apt install nodejs npm
    ```
 
-2. **Navigate to the dashboard directory**:
+2. **Clone this repository**:
    ```bash
-   cd miner-dashboard
+   git clone https://github.com/thecrackofdan/quaiminer-dashboard.git
+   cd quaiminer-dashboard
    ```
 
 3. **Make the startup script executable**:
@@ -163,6 +162,10 @@ For production deployment:
 ## License
 
 MIT
+
+## Related Projects
+
+- [QuaiMiner Core](https://github.com/thecrackofdan/AMD-Set-up) - Complete mining toolkit with setup scripts, research, and AMD GPU configuration tools
 
 ## Support
 

@@ -57,17 +57,16 @@ brew install node
 
 ```bash
 # If using git
-git clone <repository-url>
-cd miner-dashboard
+git clone https://github.com/thecrackofdan/quaiminer-dashboard.git
+cd quaiminer-dashboard
 
 # Or download and extract ZIP file
-# Then navigate to miner-dashboard folder
+# Then navigate to the extracted folder
 ```
 
 ### Step 3: Install Dependencies
 
 ```bash
-cd miner-dashboard
 npm install
 ```
 

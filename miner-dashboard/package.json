@@ -1,7 +1,7 @@
 {
-  "name": "quaiminer-core-dashboard",
+  "name": "quaiminer-dashboard",
   "version": "1.0.0",
-  "description": "QuaiMiner Core - Production-ready real-time dashboard for monitoring Quai Network mining operations",
+  "description": "Production-ready real-time dashboard for monitoring Quai Network mining operations",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
@@ -45,10 +45,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/thecrackofdan/AMD-Set-up.git"
+    "url": "https://github.com/thecrackofdan/quaiminer-dashboard.git"
   },
   "bugs": {
-    "url": "https://github.com/thecrackofdan/AMD-Set-up/issues"
+    "url": "https://github.com/thecrackofdan/quaiminer-dashboard/issues"
   },
-  "homepage": "https://github.com/thecrackofdan/AMD-Set-up#readme"
+  "homepage": "https://github.com/thecrackofdan/quaiminer-dashboard#readme"
 }
