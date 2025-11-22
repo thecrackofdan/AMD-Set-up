@@ -1,0 +1,54 @@
+{
+  "name": "quai-mining-dashboard",
+  "version": "1.0.0",
+  "description": "Production-ready real-time dashboard for monitoring Quai Network mining operations",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "dev:unix": "NODE_ENV=development node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "quaiminer-core",
+    "quaiminer",
+    "mining",
+    "dashboard",
+    "quai",
+    "quai-network",
+    "cryptocurrency",
+    "monitoring",
+    "blockchain",
+    "solo-mining",
+    "amd-gpu",
+    "progpow"
+  ],
+  "author": "thecrackofdan",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=14.0.0",
+    "npm": ">=6.0.0"
+  },
+  "os": [
+    "win32",
+    "linux",
+    "darwin"
+  ],
+  "cpu": [
+    "x64",
+    "arm64"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thecrackofdan/quai-mining-dashboard.git"
+  },
+  "bugs": {
+    "url": "https://github.com/thecrackofdan/quai-mining-dashboard/issues"
+  },
+  "homepage": "https://github.com/thecrackofdan/quai-mining-dashboard#readme"
+}

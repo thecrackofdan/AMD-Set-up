@@ -63,16 +63,7 @@ Thank you for your interest in contributing to QuaiMiner Core! This document pro
    cd AMD-Set-up
    ```
 
-2. Install dependencies:
-   ```bash
-   cd miner-dashboard
-   npm install
-   ```
-
-3. Run the dashboard:
-   ```bash
-   npm start
-   ```
+2. Review the project structure and documentation
 
 ## Coding Standards
 
@@ -102,11 +93,8 @@ Update: README with new installation steps
 
 ```
 .
-├── miner-dashboard/     # Main dashboard application
-│   ├── server.js        # Express server
-│   ├── public/          # Frontend files
-│   └── docs/            # Documentation
 ├── index.html           # Landing page
+├── dashboard/           # Simple HTML dashboard
 ├── *.sh                 # Setup and utility scripts
 └── *.md                 # Documentation files
 ```
@@ -116,9 +104,9 @@ Update: README with new installation steps
 Before submitting a PR:
 
 1. Test your changes locally
-2. Ensure the dashboard starts without errors
+2. Test scripts in a safe environment
 3. Test on different browsers if UI changes
-4. Verify API endpoints work correctly
+4. Verify all functionality works correctly
 
 ## Documentation
 
