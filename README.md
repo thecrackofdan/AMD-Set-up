@@ -2,22 +2,20 @@
 
 **Complete toolkit for Quai Network mining with AMD GPUs**
 
-QuaiMiner Core is a comprehensive suite of tools, scripts, and resources for successful Quai Network mining. It includes a real-time mining dashboard, automated AMD GPU setup scripts, mining software research, and diagnostic tools—everything you need to mine Quai efficiently.
+QuaiMiner Core is a comprehensive suite of tools, scripts, and resources for successful Quai Network mining. It includes automated AMD GPU setup scripts, mining software research, and diagnostic tools—everything you need to mine Quai efficiently.
 
 🌐 **Website:** [View Landing Page](index.html) | 🔗 **GitHub:** https://github.com/thecrackofdan/AMD-Set-up
 
 ## 🚀 Quick Start
 
 1. **View the Website:** Open `index.html` in your browser for the full QuaiMiner Core experience
-2. **Launch Dashboard:** Navigate to `miner-dashboard/` and run `npm start` for real-time mining monitoring
-3. **Setup AMD GPU:** Run `./quick_amd_setup.sh` to automatically configure your AMD GPU for mining
-4. **Compare Miners:** Run `./mining_software_comparison.sh` to get personalized miner recommendations
+2. **Setup AMD GPU:** Run `./quick_amd_setup.sh` to automatically configure your AMD GPU for mining
+3. **Compare Miners:** Run `./mining_software_comparison.sh` to get personalized miner recommendations
 
 ## 📋 Contents
 
-### 🌐 Website & Dashboard
+### 🌐 Website
 - **`index.html`** - Landing page and main website for QuaiMiner Core
-- **`miner-dashboard/`** - Real-time mining dashboard with Node.js backend
 
 ### 🔬 Core Research Documents
 - **`quai_mining_software_research.md`** - Comprehensive research and comparison of all Quai mining software options
